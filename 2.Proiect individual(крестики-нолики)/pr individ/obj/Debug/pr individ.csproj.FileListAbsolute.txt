@@ -1,0 +1,10 @@
+C:\Users\Flash\source\repos\pr individ\pr individ\bin\Debug\pr individ.exe.config
+C:\Users\Flash\source\repos\pr individ\pr individ\bin\Debug\pr individ.exe
+C:\Users\Flash\source\repos\pr individ\pr individ\bin\Debug\pr individ.pdb
+C:\Users\Flash\source\repos\pr individ\pr individ\obj\Debug\pr individ.csprojAssemblyReference.cache
+C:\Users\Flash\source\repos\pr individ\pr individ\obj\Debug\pr_individ.Form1.resources
+C:\Users\Flash\source\repos\pr individ\pr individ\obj\Debug\pr_individ.Properties.Resources.resources
+C:\Users\Flash\source\repos\pr individ\pr individ\obj\Debug\pr individ.csproj.GenerateResource.cache
+C:\Users\Flash\source\repos\pr individ\pr individ\obj\Debug\pr individ.csproj.CoreCompileInputs.cache
+C:\Users\Flash\source\repos\pr individ\pr individ\obj\Debug\pr individ.exe
+C:\Users\Flash\source\repos\pr individ\pr individ\obj\Debug\pr individ.pdb
